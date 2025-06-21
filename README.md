@@ -23,5 +23,4 @@ _Add screenshots here if available_
 
 ## 🌐 Live Demo
 
-[🔗 Click here to view the live demo](#)  
-_(Replace `#` with your live project link)_
+[🔗 Click here to view the live demo](https://hrithika02.github.io/udemy-clone/)
